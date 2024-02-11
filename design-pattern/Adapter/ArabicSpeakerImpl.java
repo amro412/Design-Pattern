@@ -1,0 +1,10 @@
+package Adapter;
+
+public class ArabicSpeakerImpl implements ArabicSpeaker {
+
+
+    public void arabicGreeting() {
+        System.out.println("Salam Alaykom");
+    }
+
+}
